@@ -1,8 +1,15 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
 
-logs/*
-!.gitkeep
-node_modules/
-bower_components/
-tmp
-.DS_Store
-.idea
+pids
+logs
+results
+
+npm-debug.log
+node_modules
